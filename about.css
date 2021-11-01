@@ -1,0 +1,139 @@
+img {
+    height: 700px;
+    width: 600px;
+    border: solid;
+    border-color: #f76c6c;
+    box-shadow: 7px 7px 3px #24305E;
+}
+
+h2 {
+    text-decoration: underline;
+    text-decoration-color: #374785;
+    text-shadow: 2px 2px #374785;
+}
+.wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    grid-template-rows: 500px 500px;
+    grid-gap: 10px;
+    font-size: 2rem;
+    margin-top: 10px;
+}
+
+.set1Box1 {
+    border: solid;
+    border-color: #f76c6c;
+    grid-column: 2;
+    grid-row: 1;
+    background-color: #A8D0E6;
+    box-shadow: 7px 7px 3px #24305E;
+}
+
+.set1Box2 {
+    border: solid;
+    border-color: #f76c6c;
+    grid-column: 1;
+    grid-row: 1 ;
+    background-image: url("https://images-na.ssl-images-amazon.com/images/I/A17rKjWSSYL.jpg");
+    background-size: 330px;
+    box-shadow: 7px 7px 3px #24305E;
+}
+
+.set1Box3 {
+    border: solid;
+    border-color: #f76c6c;
+    grid-column: 3;
+    grid-row: 1;
+    background-image: url("https://prodimage.images-bn.com/pimages/9780425266540_p0_v6_s550x406.jpg");
+    background-size: 330px;
+    box-shadow: 7px 7px 3px #24305E;
+}
+
+.set1Box4 {
+    border: solid;
+    border-color: #f76c6c;
+    grid-column: 1;
+    grid-row: 2;
+    background-image: url("https://www.sfgateway.com/wp-content/uploads/2018/07/hbg-title-9781473208452-24.jpg?fit=436%2C675");
+    background-size: 330px;
+    box-shadow: 7px 7px 3px #24305E;
+}
+
+.set1Box5 {
+    border: solid;
+    border-color: #f76c6c;
+    grid-column: 2;
+    grid-row: 2;
+    background-image: url("https://images-na.ssl-images-amazon.com/images/I/710-UXSIOUL.jpg");
+    background-size: 330px;
+    box-shadow: 7px 7px 3px #24305E;
+}
+
+.set1Box6 {
+    border: solid;
+    border-color: #f76c6c;
+    grid-column: 3;
+    grid-row: 2;
+    background-image: url("https://prodimage.images-bn.com/pimages/9780063036543_p0_v3_s550x406.jpg");
+    background-size: 310px;
+    box-shadow: 7px 7px 3px #24305E;
+}
+
+.set2Box1 {
+    border: solid;
+    border-color: #f76c6c;
+    grid-column: 2;
+    grid-row: 1;
+    background-color: #A8D0E6;
+    box-shadow: 7px 7px 3px #24305E;
+}
+
+.set2Box2 {
+    border: solid;
+    border-color: #f76c6c;
+    grid-column: 1;
+    grid-row: 1 ;
+    background-image: url("https://lumiere-a.akamaihd.net/v1/images/p_ratatouille_19736_0814231f.jpeg");
+    background-size: 330px;
+    box-shadow: 7px 7px 3px #24305E;
+}
+
+.set2Box3 {
+    border: solid;
+    border-color: #f76c6c;
+    grid-column: 3;
+    grid-row: 1;
+    background-image: url("https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg");
+    background-size: 350px;
+    box-shadow: 7px 7px 3px #24305E;
+}
+
+.set2Box4 {
+    border: solid;
+    border-color: #f76c6c;
+    grid-column: 1;
+    grid-row: 2;
+    background-image: url("https://m.media-amazon.com/images/I/519aDKMZATL._AC_.jpg");
+    background-size: 330px;
+    box-shadow: 7px 7px 3px #24305E;
+}
+
+.set2Box5 {
+    border: solid;
+    border-color: #f76c6c;
+    grid-column: 2;
+    grid-row: 2;
+    background-image: url("https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/270721/269331/apisr3lzs__31020.1625630753.jpg?c=2");
+    background-size: 310px;
+    box-shadow: 7px 7px 3px #24305E;
+}
+
+.set2Box6 {
+    border: solid;
+    border-color: #f76c6c;
+    grid-column: 3;
+    grid-row: 2;
+    background-image: url("https://airows.com/.image/t_share/MTI4OTk5MTAwNjA2NjE2ODUw/the-life-aquatic-with-steve-zissou-2004-movie-poster.jpg");
+    background-size: 330px;
+    box-shadow: 7px 7px 3px #24305E;
+}
